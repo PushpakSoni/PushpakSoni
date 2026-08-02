@@ -5,6 +5,41 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+scale;Python+%7C+SQL+%7C+pySpark+%7C+AWS;ETL+%7C+Big+Data+%7C+Databricks;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="./terminal-card.svg" alt="Pushpak's live terminal card" width="100%" />
+</p>
+
+---
+
+### 🚀 Live Projects
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Project Name</b><br/>
+      <sub>yourproject.com</sub><br/><br/>
+      <a href="#">Visit Site ↗</a>
+    </td>
+    <td align="center" width="25%">
+      <b>Project Name</b><br/>
+      <sub>yourproject.com</sub><br/><br/>
+      <a href="#">Visit Site ↗</a>
+    </td>
+    <td align="center" width="25%">
+      <b>Project Name</b><br/>
+      <sub>yourproject.com</sub><br/><br/>
+      <a href="#">Visit Site ↗</a>
+    </td>
+    <td align="center" width="25%">
+      <b>Project Name</b><br/>
+      <sub>yourproject.com</sub><br/><br/>
+      <a href="#">Visit Site ↗</a>
+    </td>
+  </tr>
+</table>
+
+> ✏️ Replace the placeholders above with your actual project names, links, and icons — tell me your project names/URLs and I'll fill this in for you.
+
 ---
 
 ### 🧑‍💻 About Me
@@ -37,13 +72,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpakSoni&show_icons=true&theme=radical&hide_border=true" alt="Pushpak's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpakSoni&theme=radical&hide_border=true" alt="Pushpak's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pushpakSoni&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Pushpak's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=pushpakSoni&theme=radical&hide_border=true" alt="Pushpak's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakSoni&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakSoni&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
+
+> ⚠️ If these show as broken images, it's the shared public stats service being rate-limited — not your repo. See the note below on fixing it permanently.
 
 ---
 
