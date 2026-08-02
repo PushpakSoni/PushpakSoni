@@ -11,34 +11,30 @@
 
 ---
 
-### 🚀 Live Projects
+### 🚀 Projects
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <b>Project Name</b><br/>
-      <sub>yourproject.com</sub><br/><br/>
-      <a href="#">Visit Site ↗</a>
+    <td width="25%">
+      <b>🔧 Project Name</b><br/>
+      <sub>Short one-line description goes here</sub>
     </td>
-    <td align="center" width="25%">
-      <b>Project Name</b><br/>
-      <sub>yourproject.com</sub><br/><br/>
-      <a href="#">Visit Site ↗</a>
+    <td width="25%">
+      <b>🔧 Project Name</b><br/>
+      <sub>Short one-line description goes here</sub>
     </td>
-    <td align="center" width="25%">
-      <b>Project Name</b><br/>
-      <sub>yourproject.com</sub><br/><br/>
-      <a href="#">Visit Site ↗</a>
+    <td width="25%">
+      <b>🔧 Project Name</b><br/>
+      <sub>Short one-line description goes here</sub>
     </td>
-    <td align="center" width="25%">
-      <b>Project Name</b><br/>
-      <sub>yourproject.com</sub><br/><br/>
-      <a href="#">Visit Site ↗</a>
+    <td width="25%">
+      <b>🔧 Project Name</b><br/>
+      <sub>Short one-line description goes here</sub>
     </td>
   </tr>
 </table>
 
-> ✏️ Replace the placeholders above with your actual project names, links, and icons — tell me your project names/URLs and I'll fill this in for you.
+> ✏️ Send me your project names + one-line descriptions from your resume and I'll fill these in properly (no "Visit Site" links, matching the style you shared).
 
 ---
 
@@ -72,15 +68,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpakSoni&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Pushpak's GitHub stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=pushpakSoni&theme=radical&hide_border=true" alt="Pushpak's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakSoni&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/pushpakSoni?style=for-the-badge&color=39ff9c&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/pushpakSoni?style=for-the-badge&color=39ff9c&labelColor=0d1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=pushpakSoni&style=for-the-badge&color=39ff9c&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-> ⚠️ If these show as broken images, it's the shared public stats service being rate-limited — not your repo. See the note below on fixing it permanently.
+> The old icon-stats and top-languages widgets both depend on GitHub's public API through a shared, unauthenticated Vercel instance — right now that backend is rate-limited (I confirmed this directly), so those two specific badges will keep breaking regardless of caching tricks. The streak card and shields.io badges above pull from a different, more stable path, so they render reliably. If you want the icon-stats/top-langs cards back permanently, the fix is self-hosting your own copy on Vercel with your own GitHub token — takes about 5 minutes and I can walk you through it.
 
 ---
 
